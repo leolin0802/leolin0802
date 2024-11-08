@@ -1,5 +1,10 @@
 ## Hi 👋, I'm Maosen (Leo) Lin
 
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolin0802&show_icons=true&theme=radical)
+
+
 <!--
 **leolin0802/leolin0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
